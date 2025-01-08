@@ -2,7 +2,7 @@
 # Blockchain Simulator
 
 A simulation of a basic blockchain system with support for multiple nodes, transactions, mining, and a graphical user interface (GUI) built with Tkinter. This project demonstrates fundamental blockchain concepts, including key pair generation, transaction handling, UTXO set management, mining with proof-of-work, and network communication among nodes.
-
+![img_1.png](img_1.png)
 ## Features
 
 - **Key Pair Generation**: Create ECDSA key pairs for accounts.
